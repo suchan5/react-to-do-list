@@ -11,7 +11,7 @@ class App extends Component { // Class이므로 App으로 대문자로 바꿔주
         {id: 1, name: 'Reading', count: 0},
         {id: 2, name: 'Coding', count: 1},
         {id: 3, name: 'Running', count:0},
-        {id: 4, name: 'Duckzil', count: 5}
+        {id: 4, name: 'Cycling', count: 5}
         
     ],
   };
